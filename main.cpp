@@ -5,7 +5,7 @@ int main ()
 {
 	double grade;
 	
-	cout << " Please enter your grade ";
+	cout << " PLEASE INPUT YOUR GRADE ";
 	cin >> grade;
 	
 	if ( (grade >= 98) && (grade < 100) )
